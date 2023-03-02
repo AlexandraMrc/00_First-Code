@@ -1,0 +1,32 @@
+body, html {
+    height: 100%;
+}
+
+body {
+    background-image: url("https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    text-align: center;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+container {
+    align-content: center;
+
+}
+h1 {
+    color: black;
+    font-family: 'Lucida Sans'sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+form {
+ background-color: rgb(200, 144, 32);
+ margin-left: 500px;
+ margin-right: 500px;
+ border-radius: 20px;
+ 
+}
+
